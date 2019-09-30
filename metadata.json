@@ -1,0 +1,10 @@
+{
+  "description": "Utility to dim your screen.",
+  "name": "Dimmer",
+  "shell-version": [
+    "3.32.2"
+  ],
+  "url": "",
+  "uuid": "dimmer@0x72.pl",
+  "version": 1
+}
